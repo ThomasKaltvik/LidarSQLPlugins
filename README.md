@@ -3,6 +3,10 @@ Plugins for Race Track Builder to use lidar based ASCII grid files for altitude 
 
 The plugin is for non-commercial private and educational use only.
 
+Instructions: https://assettocorsamods.net/threads/thomas-kaltvik-rtb-plugins-ver-1-0-tutorial.2863/#post-19892
+
+Video 2K:  https://www.youtube.com/watch?v=e3NS_R1ebWQ
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
 MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
