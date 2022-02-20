@@ -1,5 +1,9 @@
-# RTBpluginsForLidarAltitude
-Plugins for Race Track Builder to use lidar based ASCII grid files for altitude and slope image.
+# Race Track Builder - Thomas Kaltvik Lidar SQL plugins for Lidar altitude based landscapes
+
+
+Plugins for Race Track Builder to use lidar based ASCII grid files stored and used from SQL Server to fetch altitude for sceenery and create slope images.
+
+ver 1.0
 
 The plugin is for non-commercial private and educational use only.
 
