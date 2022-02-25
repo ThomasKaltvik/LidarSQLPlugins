@@ -7,7 +7,9 @@ ver 1.0
 
 The plugin is for non-commercial private and educational use only.
 
-Instructions: https://assettocorsamods.net/threads/thomas-kaltvik-rtb-plugins-ver-1-0-tutorial.2863/#post-19892
+Manual/guide: https://steamcommunity.com/sharedfiles/filedetails/?id=2764210000
+
+(old instructions: https://assettocorsamods.net/threads/thomas-kaltvik-rtb-plugins-ver-1-0-tutorial.2863/#post-19892)
 
 Video 2K:  https://www.youtube.com/watch?v=e3NS_R1ebWQ
 
